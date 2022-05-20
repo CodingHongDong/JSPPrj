@@ -24,7 +24,6 @@
 .metadata
 tmp/
 *.tmp
-.project
 .classpath
 .settings/*
 **/target/*
